@@ -1,0 +1,691 @@
+#EXTM3U
+#EXTINF:-1 group-title="ATENÇÃO - LISTA ATUALIZADA 10/10!" tvg-logo="https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2020/master/Logo.jpg",
+https://tinyurl.com/ybnex98f
+#EXTINF:-1 group-title="SBT LIBERTADORES" tvg-logo="http://printv.esy.es/server/SBT%20HD.png",SBT H265
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/6569
+#EXTINF:-1 group-title="SBT LIBERTADORES" tvg-logo="http://printv.esy.es/server/SBT%20HD.png",SBT FHD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/1900
+#EXTINF:-1 group-title="SBT LIBERTADORES" tvg-logo="http://printv.esy.es/server/SBT%20HD.png",SBT HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/2212
+#EXTINF:-1 group-title="SBT LIBERTADORES" tvg-logo="http://printv.esy.es/server/SBT.png",SBT
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/2211
+#EXTINF:-1 group-title="SBT LIBERTADORES" tvg-logo="http://printv.esy.es/server/SBT%20HD.png",SBT Alternativo HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/1324
+#EXTINF:-1 group-title="Premiere Opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 3 SD¹
+http://srv.tvprodigital.net:80/192324/192324/4340
+#EXTINF:-1 group-title="Premiere Opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 4 FHD H265
+http://srv.tvprodigital.net:80/192324/192324/11552
+#EXTINF:-1 group-title="Premiere Opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 4 FHD ²
+http://srv.tvprodigital.net:80/192324/192324/61267
+#EXTINF:-1 group-title="Premiere Opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 4 HD DUAL²
+http://srv.tvprodigital.net:80/192324/192324/62619
+#EXTINF:-1 group-title="Premiere Opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 4 HD ²
+http://srv.tvprodigital.net:80/192324/192324/61051
+#EXTINF:-1 group-title="Premiere Opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 4 HD¹
+http://srv.tvprodigital.net:80/192324/192324/6091
+#EXTINF:-1 group-title="Premiere Opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 4 SD²
+http://srv.tvprodigital.net:80/192324/192324/61050
+#EXTINF:-1 group-title="Premiere Opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 4 SD¹
+http://srv.tvprodigital.net:80/192324/192324/4339
+#EXTINF:-1 group-title="Premiere Opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 5 FHD H265
+http://srv.tvprodigital.net:80/192324/192324/9231
+#EXTINF:-1 group-title="Premiere Opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 5 FHD²
+http://srv.tvprodigital.net:80/192324/192324/61268
+#EXTINF:-1 group-title="Premiere Opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 5 HD DUAL²
+http://srv.tvprodigital.net:80/192324/192324/62819
+#EXTINF:-1 group-title="Premiere Opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 5 HD ²
+http://srv.tvprodigital.net:80/192324/192324/61053
+#EXTINF:-1 group-title="Premiere Opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 5 HD¹
+http://srv.tvprodigital.net:80/192324/192324/6090
+#EXTINF:-1 group-title="Premiere Opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 5 SD²
+http://srv.tvprodigital.net:80/192324/192324/61052
+#EXTINF:-1 group-title="Premiere Opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 5 SD¹
+http://srv.tvprodigital.net:80/192324/192324/4338
+#EXTINF:-1 group-title="Premiere Opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 6 FHD H265
+http://srv.tvprodigital.net:80/192324/192324/11550
+#EXTINF:-1 group-title="Premiere Opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 6 HD DUAL²
+http://srv.tvprodigital.net:80/192324/192324/62822
+#EXTINF:-1 group-title="Premiere Opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 6 HD ²
+http://srv.tvprodigital.net:80/192324/192324/61055
+#EXTINF:-1 group-title="Premiere Opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 6 HD¹
+http://srv.tvprodigital.net:80/192324/192324/10259
+#EXTINF:-1 group-title="Premiere Opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 6 SD²
+http://srv.tvprodigital.net:80/192324/192324/62820
+#EXTINF:-1 group-title="Premiere Opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 6 SD¹
+http://srv.tvprodigital.net:80/192324/192324/4337
+#EXTINF:-1 group-title="Premiere Opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 7 FHD H265
+http://srv.tvprodigital.net:80/192324/192324/11549
+#EXTINF:-1 group-title="Premiere Opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 7 FHD²
+http://srv.tvprodigital.net:80/192324/192324/61270
+#EXTINF:-1 group-title="Premiere Opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 7 HD DUAL²
+http://srv.tvprodigital.net:80/192324/192324/62824
+#EXTINF:-1 group-title="Premiere Opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 7 HD ²
+http://srv.tvprodigital.net:80/192324/192324/61057
+#EXTINF:-1 group-title="Premiere Opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 7 HD¹
+http://srv.tvprodigital.net:80/192324/192324/10258
+#EXTINF:-1 group-title="Premiere Opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 7 SD²
+http://srv.tvprodigital.net:80/192324/192324/61056
+#EXTINF:-1 group-title="Premiere Opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 7 SD¹
+http://srv.tvprodigital.net:80/192324/192324/4336
+#EXTINF:-1 group-title="Premiere Opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 8 SD¹
+http://srv.tvprodigital.net:80/192324/192324/20589
+#EXTINF:-1 group-title="Premiere Opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 9 SD¹
+http://srv.tvprodigital.net:80/192324/192324/20588
+#EXTINF:-1 group-title="Premiere Opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE CLUBES 1 FHD²
+http://srv.tvprodigital.net:80/192324/192324/62412
+#EXTINF:-1 group-title="Premiere Opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE CLUBES 1 FHD¹ H265
+http://srv.tvprodigital.net:80/192324/192324/9144
+#EXTINF:-1 group-title="Premiere Opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE CLUBES 1 HD DUAL²
+http://srv.tvprodigital.net:80/192324/192324/62414
+#EXTINF:-1 group-title="Premiere Opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE CLUBES 1 HD ²
+http://srv.tvprodigital.net:80/192324/192324/61045
+#EXTINF:-1 group-title="Premiere Opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE CLUBES 1 HD¹
+http://srv.tvprodigital.net:80/192324/192324/6089
+#EXTINF:-1 group-title="Premiere Opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE CLUBES 1 SD²
+http://srv.tvprodigital.net:80/192324/192324/61044
+#EXTINF:-1 group-title="Premiere Opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE CLUBES 1 SD¹
+http://srv.tvprodigital.net:80/192324/192324/4333
+#EXTINF:-1 group-title="Premiere Opção 2" tvg-logo="http://printv.esy.es/server/Premiere%20Clubes%20HD.png",Premiere Clubes FHD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/1898
+#EXTINF:-1 group-title="Premiere Opção 2" tvg-logo="http://printv.esy.es/server/Premiere%20Clubes%20HD.png",Premiere Clubes HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/2199
+#EXTINF:-1 group-title="Premiere Opção 2" tvg-logo="http://printv.esy.es/server/Premiere%20Clubes.png",Premiere Clubes
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/2198
+#EXTINF:-1 group-title="Premiere Opção 2" tvg-logo="http://printv.esy.es/server/Premiere%20Clubes%20HD.png",Premiere Clubes Alternativo FHD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/12820
+#EXTINF:-1 group-title="Premiere Opção 2" tvg-logo="http://printv.esy.es/server/Premiere%20Clubes%20HD.png",Premiere Clubes Alternativo HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/1277
+#EXTINF:-1 group-title="Premiere Opção 2" tvg-logo="http://printv.esy.es/server/PFC%20Interativo.png",PFC Internacional
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/1605
+#EXTINF:-1 group-title="Premiere Opção 2" tvg-logo="http://printv.esy.es/server/Premiere%202.png",Premiere 2 FHD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/1892
+#EXTINF:-1 group-title="Premiere Opção 2" tvg-logo="http://printv.esy.es/server/Premiere%202.png",Premiere 2 HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/2187
+#EXTINF:-1 group-title="Premiere Opção 2" tvg-logo="http://printv.esy.es/server/Premiere%202.png",Premiere 2
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/2186
+#EXTINF:-1 group-title="Premiere Opção 2" tvg-logo="http://printv.esy.es/server/Premiere%202.png",Premiere 2 Alternativo HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/1273
+#EXTINF:-1 group-title="Premiere Opção 2" tvg-logo="http://printv.esy.es/server/Premiere%203.png",Premiere 3 FHD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/1893
+#EXTINF:-1 group-title="Premiere Opção 2" tvg-logo="http://printv.esy.es/server/Premiere%203.png",Premiere 3 HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/2189
+#EXTINF:-1 group-title="Premiere Opção 2" tvg-logo="http://printv.esy.es/server/Premiere%203.png",Premiere 3
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/2188
+#EXTINF:-1 group-title="Premiere Opção 2" tvg-logo="http://printv.esy.es/server/Premiere%203.png",Premiere 3 Alternativo HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/1274
+#EXTINF:-1 group-title="Premiere Opção 2" tvg-logo="http://printv.esy.es/server/Premiere%204.png",Premiere 4 FHD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/1894
+#EXTINF:-1 group-title="Premiere Opção 2" tvg-logo="http://printv.esy.es/server/Premiere%204.png",Premiere 4 HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/2191
+#EXTINF:-1 group-title="Premiere Opção 2" tvg-logo="http://printv.esy.es/server/Premiere%204.png",Premiere 4
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/2190
+#EXTINF:-1 group-title="Premiere Opção 2" tvg-logo="http://printv.esy.es/server/Premiere%204.png",Premiere 4 Alternativo HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/1275
+#EXTINF:-1 group-title="Premiere Opção 2" tvg-logo="http://printv.esy.es/server/Premiere%205.png",Premiere 5 FHD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/1895
+#EXTINF:-1 group-title="Premiere Opção 2" tvg-logo="http://printv.esy.es/server/Premiere%205.png",Premiere 5 HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/2193
+#EXTINF:-1 group-title="Premiere Opção 2" tvg-logo="http://printv.esy.es/server/Premiere%205.png",Premiere 5
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/2192
+#EXTINF:-1 group-title="Premiere Opção 2" tvg-logo="http://printv.esy.es/server/Premiere%205.png",Premiere 5 Alternativo HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/1276
+#EXTINF:-1 group-title="Premiere Opção 2" tvg-logo="http://printv.esy.es/server/Premiere%206.png",Premiere 6 FHD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/1896
+#EXTINF:-1 group-title="Premiere Opção 2" tvg-logo="http://printv.esy.es/server/Premiere%206.png",Premiere 6 HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/2195
+#EXTINF:-1 group-title="Premiere Opção 2" tvg-logo="http://printv.esy.es/server/Premiere%206.png",Premiere 6
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/2194
+#EXTINF:-1 group-title="Premiere Opção 2" tvg-logo="http://printv.esy.es/server/Premiere%206.png",Premiere 6 Alternativo HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/7945
+#EXTINF:-1 group-title="Premiere Opção 2" tvg-logo="http://printv.esy.es/server/Premiere%207.png",Premiere 7 FHD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/1897
+#EXTINF:-1 group-title="Premiere Opção 2" tvg-logo="http://printv.esy.es/server/Premiere%207.png",Premiere 7 HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/2197
+#EXTINF:-1 group-title="Premiere Opção 2" tvg-logo="http://printv.esy.es/server/Premiere%207.png",Premiere 7
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/2196
+#EXTINF:-1 group-title="Premiere Opção 2" tvg-logo="http://printv.esy.es/server/Premiere%207.png",Premiere 7 Alternativo HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/7946
+#EXTINF:-1 group-title="Premiere Opção 2" tvg-logo="http://printv.esy.es/server/Premiere%208.png",Premiere 8
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/1162
+#EXTINF:-1 group-title="Premiere Opção 2" tvg-logo="http://printv.esy.es/server/Premiere%209.png",Premiere 9
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/7947
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 2 FHD H264¹
+http://pdsrv.io:80/090502/090502/69143
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIER 2 FHD H265¹
+http://pdsrv.io:80/090502/090502/8149
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",ESTREIA 2 FHD H265²
+http://pdsrv.io:80/090502/090502/61265
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 2 HD DUAL²
+http://pdsrv.io:80/090502/090502/62436
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 2 HD²
+http://pdsrv.io:80/090502/090502/61047
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 2 HD¹
+http://pdsrv.io:80/090502/090502/6093
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 2 SD²
+http://pdsrv.io:80/090502/090502/61046
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 2 SD¹
+http://pdsrv.io:80/090502/090502/4341
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",ESTREIA 3 FHD H264¹
+http://pdsrv.io:80/090502/090502/69144
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 3 FHD²
+http://pdsrv.io:80/090502/090502/61266
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",ESTREIA 3 FHD¹ H265
+http://pdsrv.io:80/090502/090502/9230
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 3 HD DUAL²
+http://pdsrv.io:80/090502/090502/62440
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 3 HD ²
+http://pdsrv.io:80/090502/090502/61049
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 3 HD¹
+http://pdsrv.io:80/090502/090502/6092
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 3 SD²
+http://pdsrv.io:80/090502/090502/61048
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 3 SD¹
+http://pdsrv.io:80/090502/090502/4340
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 4 FHD H264¹
+http://pdsrv.io:80/090502/090502/69145
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 4 FHD H265
+http://pdsrv.io:80/090502/090502/11552
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 4 FHD ²
+http://pdsrv.io:80/090502/090502/61267
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 4 HD DUAL²
+http://pdsrv.io:80/090502/090502/62619
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 4 HD ²
+http://pdsrv.io:80/090502/090502/61051
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 4 HD¹
+http://pdsrv.io:80/090502/090502/6091
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 4 SD²
+http://pdsrv.io:80/090502/090502/61050
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 4 SD¹
+http://pdsrv.io:80/090502/090502/4339
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 5 FHD H264¹
+http://pdsrv.io:80/090502/090502/69146
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 5 FHD H265
+http://pdsrv.io:80/090502/090502/9231
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 5 FHD²
+http://pdsrv.io:80/090502/090502/61268
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 5 HD DUAL²
+http://pdsrv.io:80/090502/090502/62819
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 5 HD ²
+http://pdsrv.io:80/090502/090502/61053
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 5 HD¹
+http://pdsrv.io:80/090502/090502/6090
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 5 SD²
+http://pdsrv.io:80/090502/090502/61052
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 5 SD¹
+http://pdsrv.io:80/090502/090502/4338
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 6 FHD H264¹
+http://pdsrv.io:80/090502/090502/69147
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 6 FHD H265
+http://pdsrv.io:80/090502/090502/11550
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 6 HD DUAL²
+http://pdsrv.io:80/090502/090502/62822
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 6 HD ²
+http://pdsrv.io:80/090502/090502/61055
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 6 HD¹
+http://pdsrv.io:80/090502/090502/10259
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 6 SD²
+http://pdsrv.io:80/090502/090502/62820
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 6 SD¹
+http://pdsrv.io:80/090502/090502/4337
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 7 FHD H264¹
+http://pdsrv.io:80/090502/090502/69148
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 7 FHD H265
+http://pdsrv.io:80/090502/090502/11549
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 7 FHD²
+http://pdsrv.io:80/090502/090502/61270
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 7 HD DUAL²
+http://pdsrv.io:80/090502/090502/62824
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 7 HD ²
+http://pdsrv.io:80/090502/090502/61057
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 7 HD¹
+http://pdsrv.io:80/090502/090502/10258
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 7 SD²
+http://pdsrv.io:80/090502/090502/61056
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 7 SD¹
+http://pdsrv.io:80/090502/090502/4336
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 8 SD²
+http://pdsrv.io:80/090502/090502/62825
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 8 SD¹
+http://pdsrv.io:80/090502/090502/20589
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 9 SD¹
+http://pdsrv.io:80/090502/090502/20588
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE CLUBE FHD¹ H264
+http://pdsrv.io:80/090502/090502/61452
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE CLUBES FHD²
+http://pdsrv.io:80/090502/090502/62412
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE CLUBES FHD¹ H265
+http://pdsrv.io:80/090502/090502/9144
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE CLUBES HD DUAL²
+http://pdsrv.io:80/090502/090502/62414
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE CLUBES HD²
+http://pdsrv.io:80/090502/090502/61045
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE CLUBES  HD¹
+http://pdsrv.io:80/090502/090502/6089
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE CLUBES SD²
+http://pdsrv.io:80/090502/090502/61044
+#EXTINF:-1 group-title="Premiere Opção 3" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE CLUBES SD¹
+http://pdsrv.io:80/090502/090502/4333
+#EXTINF:-1 group-title="Premiere Opção 4" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png",PREMIERE 2
+http://cdnbr.xyz:2082/498894/498894/214271
+#EXTINF:-1 group-title="Premiere Opção 4" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png",PREMIERE 2 FHD
+http://cdnbr.xyz:2082/498894/498894/214269
+#EXTINF:-1 group-title="Premiere Opção 4" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png",PREMIERE 2 HD
+http://cdnbr.xyz:2082/498894/498894/214270
+#EXTINF:-1 group-title="Premiere Opção 4" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png",PREMIERE 3
+http://cdnbr.xyz:2082/498894/498894/214274
+#EXTINF:-1 group-title="Premiere Opção 4" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png",PREMIERE 3 FHD
+http://cdnbr.xyz:2082/498894/498894/214272
+#EXTINF:-1 group-title="Premiere Opção 4" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png",PREMIERE 3 HD
+http://cdnbr.xyz:2082/498894/498894/214273
+#EXTINF:-1 group-title="Premiere Opção 4" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png",PREMIERE 4
+http://cdnbr.xyz:2082/498894/498894/214277
+#EXTINF:-1 group-title="Premiere Opção 4" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png",PREMIERE 4 FHD
+http://cdnbr.xyz:2082/498894/498894/214275
+#EXTINF:-1 group-title="Premiere Opção 4" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png",PREMIERE 4 HD
+http://cdnbr.xyz:2082/498894/498894/214276
+#EXTINF:-1 group-title="Premiere Opção 4" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png",PREMIERE 5
+http://cdnbr.xyz:2082/498894/498894/214280
+#EXTINF:-1 group-title="Premiere Opção 4" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png",PREMIERE 5 FHD
+http://cdnbr.xyz:2082/498894/498894/214278
+#EXTINF:-1 group-title="Premiere Opção 4" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png",PREMIERE 5 HD
+http://cdnbr.xyz:2082/498894/498894/214279
+#EXTINF:-1 group-title="Premiere Opção 4" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png",PREMIERE 6
+http://cdnbr.xyz:2082/498894/498894/214283
+#EXTINF:-1 group-title="Premiere Opção 4" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png",PREMIERE 6 FHD
+http://cdnbr.xyz:2082/498894/498894/214281
+#EXTINF:-1 group-title="Premiere Opção 4" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png",PREMIERE 6 HD
+http://cdnbr.xyz:2082/498894/498894/214282
+#EXTINF:-1 group-title="Premiere Opção 4" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png",PREMIERE 7
+http://cdnbr.xyz:2082/498894/498894/214286
+#EXTINF:-1 group-title="Premiere Opção 4" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png",PREMIERE 7 FHD
+http://cdnbr.xyz:2082/498894/498894/214284
+#EXTINF:-1 group-title="Premiere Opção 4" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png",PREMIERE 7 HD
+http://cdnbr.xyz:2082/498894/498894/214285
+#EXTINF:-1 group-title="Premiere Opção 4" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png",PREMIERE CLUBES
+http://cdnbr.xyz:2082/498894/498894/214289
+#EXTINF:-1 group-title="Premiere Opção 4" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png",PREMIERE CLUBES 4K
+http://cdnbr.xyz:2082/498894/498894/212744
+#EXTINF:-1 group-title="Premiere Opção 4" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png",PREMIERE CLUBES FHD
+http://cdnbr.xyz:2082/498894/498894/214287
+#EXTINF:-1 group-title="Premiere Opção 4" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png",PREMIERE CLUBES HD
+http://cdnbr.xyz:2082/498894/498894/214288
+#EXTINF:-1 group-title="Premiere Opção 5" tvg-logo="http://s.eyplay.io/logos/canais/premiere.png",Premiere 2 FHD
+http://esrv.cc:80/luiz1042/353507/31850
+#EXTINF:-1 group-title="Premiere Opção 5" tvg-logo="http://s.eyplay.io/logos/canais/premiere.png",Premiere 2 FHD (H265)
+http://esrv.cc:80/luiz1042/353507/339
+#EXTINF:-1 group-title="Premiere Opção 5" tvg-logo="http://s.eyplay.io/logos/canais/premiere.png",Premiere 2 HD
+http://esrv.cc:80/luiz1042/353507/340
+#EXTINF:-1 group-title="Premiere Opção 5" tvg-logo="http://s.eyplay.io/logos/canais/premiere.png",Premiere 2 SD
+http://esrv.cc:80/luiz1042/353507/341
+#EXTINF:-1 group-title="Premiere Opção 5" tvg-logo="http://s.eyplay.io/logos/canais/premiere.png",Premiere 3 FHD
+http://esrv.cc:80/luiz1042/353507/31852
+#EXTINF:-1 group-title="Premiere Opção 5" tvg-logo="http://s.eyplay.io/logos/canais/premiere.png",Premiere 3 FHD (H265)
+http://esrv.cc:80/luiz1042/353507/342
+#EXTINF:-1 group-title="Premiere Opção 5" tvg-logo="http://s.eyplay.io/logos/canais/premiere.png",Premiere 3 HD
+http://esrv.cc:80/luiz1042/353507/343
+#EXTINF:-1 group-title="Premiere Opção 5" tvg-logo="http://s.eyplay.io/logos/canais/premiere.png",Premiere 3 SD
+http://esrv.cc:80/luiz1042/353507/344
+#EXTINF:-1 group-title="Premiere Opção 5" tvg-logo="http://s.eyplay.io/logos/canais/premiere.png",Premiere 4 FHD
+http://esrv.cc:80/luiz1042/353507/31855
+#EXTINF:-1 group-title="Premiere Opção 5" tvg-logo="http://s.eyplay.io/logos/canais/premiere.png",Premiere 4 FHD (H265)
+http://esrv.cc:80/luiz1042/353507/345
+#EXTINF:-1 group-title="Premiere Opção 5" tvg-logo="http://s.eyplay.io/logos/canais/premiere.png",Premiere 4 HD
+http://esrv.cc:80/luiz1042/353507/346
+#EXTINF:-1 group-title="Premiere Opção 5" tvg-logo="http://s.eyplay.io/logos/canais/premiere.png",Premiere 4 SD
+http://esrv.cc:80/luiz1042/353507/347
+#EXTINF:-1 group-title="Premiere Opção 5" tvg-logo="http://s.eyplay.io/logos/canais/premiere.png",Premiere 5 FHD
+http://esrv.cc:80/luiz1042/353507/31856
+#EXTINF:-1 group-title="Premiere Opção 5" tvg-logo="http://s.eyplay.io/logos/canais/premiere.png",Premiere 5 FHD (H265)
+http://esrv.cc:80/luiz1042/353507/348
+#EXTINF:-1 group-title="Premiere Opção 5" tvg-logo="http://s.eyplay.io/logos/canais/premiere.png",Premiere 5 HD
+http://esrv.cc:80/luiz1042/353507/349
+#EXTINF:-1 group-title="Premiere Opção 5" tvg-logo="http://s.eyplay.io/logos/canais/premiere.png",Premiere 5 SD
+http://esrv.cc:80/luiz1042/353507/350
+#EXTINF:-1 group-title="Premiere Opção 5" tvg-logo="http://s.eyplay.io/logos/canais/premiere.png",Premiere 6 FHD
+http://esrv.cc:80/luiz1042/353507/31499
+#EXTINF:-1 group-title="Premiere Opção 5" tvg-logo="http://s.eyplay.io/logos/canais/premiere.png",Premiere 6 FHD (H265)
+http://esrv.cc:80/luiz1042/353507/351
+#EXTINF:-1 group-title="Premiere Opção 5" tvg-logo="http://s.eyplay.io/logos/canais/premiere.png",Premiere 6 HD
+http://esrv.cc:80/luiz1042/353507/352
+#EXTINF:-1 group-title="Premiere Opção 5" tvg-logo="http://s.eyplay.io/logos/canais/premiere.png",Premiere 6 SD
+http://esrv.cc:80/luiz1042/353507/353
+#EXTINF:-1 group-title="Premiere Opção 5" tvg-logo="http://s.eyplay.io/logos/canais/premiere.png",Premiere 7 FHD
+http://esrv.cc:80/luiz1042/353507/31500
+#EXTINF:-1 group-title="Premiere Opção 5" tvg-logo="http://s.eyplay.io/logos/canais/premiere.png",Premiere 7 FHD (H265)
+http://esrv.cc:80/luiz1042/353507/354
+#EXTINF:-1 group-title="Premiere Opção 5" tvg-logo="http://s.eyplay.io/logos/canais/premiere.png",Premiere 7 HD
+http://esrv.cc:80/luiz1042/353507/355
+#EXTINF:-1 group-title="Premiere Opção 5" tvg-logo="http://s.eyplay.io/logos/canais/premiere.png",Premiere 7 SD
+http://esrv.cc:80/luiz1042/353507/356
+#EXTINF:-1 group-title="Premiere Opção 5" tvg-logo="http://s.eyplay.io/logos/canais/premiere.png",Premiere Clubes FHD
+http://esrv.cc:80/luiz1042/353507/31860
+#EXTINF:-1 group-title="Premiere Opção 5" tvg-logo="http://s.eyplay.io/logos/canais/premiere.png",Premiere Clubes FHD (H265)
+http://esrv.cc:80/luiz1042/353507/357
+#EXTINF:-1 group-title="Premiere Opção 5" tvg-logo="http://s.eyplay.io/logos/canais/premiere.png",Premiere Clubes HD
+http://esrv.cc:80/luiz1042/353507/358
+#EXTINF:-1 group-title="Premiere Opção 5" tvg-logo="http://s.eyplay.io/logos/canais/premiere.png",Premiere Clubes SD
+http://esrv.cc:80/luiz1042/353507/359
+#EXTINF:-1 group-title="SporTv opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv2.png",SPORTV 2 FHD H265
+http://srv.tvprodigital.net:80/110175/110175/11539
+#EXTINF:-1 group-title="SporTv opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV 2 Full_HD H265 ²
+http://srv.tvprodigital.net:80/110175/110175/61272
+#EXTINF:-1 group-title="SporTv opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV 2 HD ²
+http://srv.tvprodigital.net:80/110175/110175/61062
+#EXTINF:-1 group-title="SporTv opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv2.png",SPORTV 2 HD¹
+http://srv.tvprodigital.net:80/110175/110175/6084
+#EXTINF:-1 group-title="SporTv opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV 2 SD
+http://srv.tvprodigital.net:80/110175/110175/61061
+#EXTINF:-1 group-title="SporTv opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv2.png",SPORTV 2 SD¹
+http://srv.tvprodigital.net:80/110175/110175/4326
+#EXTINF:-1 group-title="SporTv opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv3.png",SPORTV 3 FHD H265
+http://srv.tvprodigital.net:80/110175/110175/11538
+#EXTINF:-1 group-title="SporTv opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV 3 Full_HD H265 ²
+http://srv.tvprodigital.net:80/110175/110175/61273
+#EXTINF:-1 group-title="SporTv opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV 3 HD ²
+http://srv.tvprodigital.net:80/110175/110175/61064
+#EXTINF:-1 group-title="SporTv opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv3.png",SPORTV 3 HD¹
+http://srv.tvprodigital.net:80/110175/110175/6083
+#EXTINF:-1 group-title="SporTv opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV 3 SD ²
+http://srv.tvprodigital.net:80/110175/110175/61063
+#EXTINF:-1 group-title="SporTv opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv3.png",SPORTV 3 SD¹
+http://srv.tvprodigital.net:80/110175/110175/4325
+#EXTINF:-1 group-title="SporTv opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV FHD H265
+http://srv.tvprodigital.net:80/110175/110175/11563
+#EXTINF:-1 group-title="SporTv opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV Full_HD H265 ²
+http://srv.tvprodigital.net:80/110175/110175/61271
+#EXTINF:-1 group-title="SporTv opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV HD ²
+http://srv.tvprodigital.net:80/110175/110175/61060
+#EXTINF:-1 group-title="SporTv opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV HD¹
+http://srv.tvprodigital.net:80/110175/110175/20544
+#EXTINF:-1 group-title="SporTv opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV SD ²
+http://srv.tvprodigital.net:80/110175/110175/61059
+#EXTINF:-1 group-title="SporTv opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV SD¹
+http://srv.tvprodigital.net:80/110175/110175/4327
+#EXTINF:-1 group-title="SporTv opção 2" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv2.png",SPORTV 2 FHD H265
+http://srv.tvprodigital.net:80/192324/192324/11539
+#EXTINF:-1 group-title="SporTv opção 2" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV 2 FHD H265
+http://srv.tvprodigital.net:80/192324/192324/61272
+#EXTINF:-1 group-title="SporTv opção 2" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv3.png",SPORTV 2 FHD H264
+http://srv.tvprodigital.net:80/192324/192324/61454
+#EXTINF:-1 group-title="SporTv opção 2" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV 2 HD
+http://srv.tvprodigital.net:80/192324/192324/61062
+#EXTINF:-1 group-title="SporTv opção 2" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv2.png",SPORTV 2 HD
+http://srv.tvprodigital.net:80/192324/192324/6084
+#EXTINF:-1 group-title="SporTv opção 2" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV 2 SD
+http://srv.tvprodigital.net:80/192324/192324/61061
+#EXTINF:-1 group-title="SporTv opção 2" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv2.png",SPORTV 2 SD
+http://srv.tvprodigital.net:80/192324/192324/4326
+#EXTINF:-1 group-title="SporTv opção 2" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV 3 FHD H265
+http://srv.tvprodigital.net:80/192324/192324/61273
+#EXTINF:-1 group-title="SporTv opção 2" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv3.png",SPORTV 3 FHD H265
+http://srv.tvprodigital.net:80/192324/192324/11538
+#EXTINF:-1 group-title="SporTv opção 2" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv3.png",SPORTV 3 FHD H264
+http://srv.tvprodigital.net:80/192324/192324/61455
+#EXTINF:-1 group-title="SporTv opção 2" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV 3 HD
+http://srv.tvprodigital.net:80/192324/192324/61064
+#EXTINF:-1 group-title="SporTv opção 2" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv3.png",SPORTV 3 HD
+http://srv.tvprodigital.net:80/192324/192324/6083
+#EXTINF:-1 group-title="SporTv opção 2" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV 3 SD
+http://srv.tvprodigital.net:80/192324/192324/61063
+#EXTINF:-1 group-title="SporTv opção 2" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv3.png",SPORTV 3 SD
+http://srv.tvprodigital.net:80/192324/192324/4325
+#EXTINF:-1 group-title="SporTv opção 2" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV FHD H265
+http://srv.tvprodigital.net:80/192324/192324/11563
+#EXTINF:-1 group-title="SporTv opção 2" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV FHD H265
+http://srv.tvprodigital.net:80/192324/192324/61271
+#EXTINF:-1 group-title="SporTv opção 2" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv3.png",SPORTV FHD H264
+http://srv.tvprodigital.net:80/192324/192324/61453
+#EXTINF:-1 group-title="SporTv opção 2" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV HD
+http://srv.tvprodigital.net:80/192324/192324/61060
+#EXTINF:-1 group-title="SporTv opção 2" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV HD
+http://srv.tvprodigital.net:80/192324/192324/20544
+#EXTINF:-1 group-title="SporTv opção 2" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV SD
+http://srv.tvprodigital.net:80/192324/192324/61059
+#EXTINF:-1 group-title="SporTv opção 2" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV SD
+http://srv.tvprodigital.net:80/192324/192324/4327
+#EXTINF:-1 group-title="SporTv opção 3" tvg-logo="http://printv.esy.es/server/SporTV.png",SporTV FHD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/13069
+#EXTINF:-1 group-title="SporTv opção 3" tvg-logo="http://printv.esy.es/server/SporTV.png",SporTV HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/13070
+#EXTINF:-1 group-title="SporTv opção 3" tvg-logo="http://printv.esy.es/server/SporTV.png",SporTV
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/13071
+#EXTINF:-1 group-title="SporTv opção 3" tvg-logo="http://printv.esy.es/server/SporTV%202.png",SporTV 2 FHD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/13072
+#EXTINF:-1 group-title="SporTv opção 3" tvg-logo="http://printv.esy.es/server/SporTV%202.png",SporTV 2 HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/13073
+#EXTINF:-1 group-title="SporTv opção 3" tvg-logo="http://printv.esy.es/server/SporTV%202.png",SporTV 2
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/13074
+#EXTINF:-1 group-title="SporTv opção 3" tvg-logo="http://printv.esy.es/server/SporTV%203.png",SporTV 3 FHD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/13075
+#EXTINF:-1 group-title="SporTv opção 3" tvg-logo="http://printv.esy.es/server/SporTV%203.png",SporTV 3 HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/13076
+#EXTINF:-1 group-title="SporTv opção 3" tvg-logo="http://printv.esy.es/server/SporTV%203.png",SporTV 3
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/13077
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://printv.esy.es/server/SporTV.png",SporTV FHD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/2035
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://printv.esy.es/server/SporTV.png",SporTV HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/2038
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://printv.esy.es/server/SporTV.png",SporTV
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/2218
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://printv.esy.es/server/SporTV%202.png",SporTV Alternativo HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/1303
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://printv.esy.es/server/SporTV%202.png",SporTV 2 FHD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/1917
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://printv.esy.es/server/SporTV%202.png",SporTV 2 HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/2036
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://printv.esy.es/server/SporTV%202.png",SporTV 2
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/2219
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://printv.esy.es/server/SporTV%202.png",SporTV 2 Alternativo HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/1301
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://printv.esy.es/server/SporTV%202.png",SporTV 2 Alternativo
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/1173
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://printv.esy.es/server/SporTV%203.png",SporTV 3 FHD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/1918
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://printv.esy.es/server/SporTV%203.png",SporTV 3 HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/2037
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://printv.esy.es/server/SporTV%203.png",SporTV 3
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/2220
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://printv.esy.es/server/SporTV%203.png",SporTV 3 Alternativo  HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/1302
+#EXTINF:-1 group-title="SporTv opção 3" tvg-logo="http://printv.esy.es/server/Fox%20Sports%20HD.png",Fox Sports FHD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/13078
+#EXTINF:-1 group-title="SporTv opção 3" tvg-logo="http://printv.esy.es/server/Fox%20Sports%20HD.png",Fox Sports HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/13079
+#EXTINF:-1 group-title="SporTv opção 3" tvg-logo="http://printv.esy.es/server/Fox%20Sports.png",Fox Sports
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/13080
+#EXTINF:-1 group-title="SporTv opção 3" tvg-logo="http://printv.esy.es/server/Fox%20Sports%202%20HD.png",Fox Sports 2 FHD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/13081
+#EXTINF:-1 group-title="SporTv opção 3" tvg-logo="http://printv.esy.es/server/Fox%20Sports%202%20HD.png",FoxSports 2 HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/13082
+#EXTINF:-1 group-title="SporTv opção 3" tvg-logo="http://printv.esy.es/server/Fox%20Sports%202.png",Fox Sports 2
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/13083
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://printv.esy.es/server/Fox%20Sports%20HD.png",Fox Sports FHD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/1887
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://printv.esy.es/server/Fox%20Sports%20HD.png",Fox Sports HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/2122
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://printv.esy.es/server/Fox%20Sports.png",Fox Sports
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/2121
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://printv.esy.es/server/Fox%20Sports%20HD.png",FOX Sports Alternativo HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/1295
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://printv.esy.es/server/Fox%20Sports.png",Fox Sports Alternativo
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/1136
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://printv.esy.es/server/Fox%20Sports%202%20HD.png",Fox Sports 2 FHD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/1886
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://printv.esy.es/server/Fox%20Sports%202%20HD.png",Fox Sports 2 HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/2124
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://printv.esy.es/server/Fox%20Sports%202.png",Fox Sports 2
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/2123
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://printv.esy.es/server/Fox%20Sports%202%20HD.png",FOX Sports 2 Alternativo HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/1314
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://printv.esy.es/server/Fox%20Sports%202.png",Fox Sports 2 Alternativo
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/1135
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://printv.esy.es/server/ESPN%20Brasil%20HD.png",Espn Brasil FHD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/1883
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://printv.esy.es/server/ESPN%20Brasil%20HD.png",Espn Brasil HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/2105
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://printv.esy.es/server/ESPN%20Brasil.png",Espn Brasil
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/2104
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://printv.esy.es/server/ESPN.png",Espn FHD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/1884
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://printv.esy.es/server/ESPN.png",Espn HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/2108
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://printv.esy.es/server/ESPN.png",Espn
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/2101
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://printv.esy.es/server/ESPN.png",ESPN Alternativo HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/1311
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://printv.esy.es/server/ESPN.png",ESPN Alternativo
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/1130
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://printv.esy.es/server/ESPN%202.png",ESPN 2 FHD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/1827
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://printv.esy.es/server/ESPN%202.png",Espn 2 HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/2103
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://printv.esy.es/server/ESPN%202.png",Espn 2
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/2102
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://printv.esy.es/server/ESPN%202.png",ESPN 2 Alternativo HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/1293
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://printv.esy.es/server/ESPN%20Extra.png",ESPN Extra FHD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/1828
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://printv.esy.es/server/ESPN%20Extra.png",Espn Extra HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/2107
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://printv.esy.es/server/ESPN%20Extra.png",Espn Extra
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/2106
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://printv.esy.es/server/ESPN%20Extra.png",ESPN Extra Alternativo HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/1310
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://i.postimg.cc/zfDnk9XN/Esporte-Interativo-2.png",EI Plus HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/2300
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://i.postimg.cc/zfDnk9XN/Esporte-Interativo-2.png",EI Plus
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/2301
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://printv.esy.es/server/Combate.png",Combate FHD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/1880
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://printv.esy.es/server/Combate.png",Combate HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/2076
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://printv.esy.es/server/Combate.png",Combate
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/2075
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://printv.esy.es/server/Combate.png",Combate Alternativo HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/1291
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://printv.esy.es/server/Band%20Sports%20HD.png",Band Sports FHD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/1812
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://printv.esy.es/server/Band%20Sports%20HD.png",Band Sports HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/2060
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://printv.esy.es/server/Band%20Sports.png",Band Sports
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/2059
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://printv.esy.es/server/Band%20Sports%20HD.png",Band Sports Alternativo HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/1289
+#EXTINF:-1 group-title="Esportes PPV" tvg-logo="http://printv.esy.es/server/DAZN.png",DAZN 1 Alternativo HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/1406
+#EXTINF:-1 group-title="Esportes PPV" tvg-logo="http://printv.esy.es/server/DAZN.png",DAZN 1 Alternativo` HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/20932
+#EXTINF:-1 group-title="Esportes PPV" tvg-logo="http://printv.esy.es/server/DAZN.png",DAZN 2 Alternativo HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/11617
+#EXTINF:-1 group-title="Esportes PPV" tvg-logo="http://printv.esy.es/server/DAZN.png",DAZN 3 HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/20617
+#EXTINF:-1 group-title="Esportes PPV" tvg-logo="http://printv.esy.es/server/DAZN.png",DAZN 3 Alternativo HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/11618
+#EXTINF:-1 group-title="Esportes PPV" tvg-logo="http://printv.esy.es/server/DAZN.png",DAZN 4 HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/20618
+#EXTINF:-1 group-title="Esportes PPV" tvg-logo="http://printv.esy.es/server/DAZN.png",DAZN 4 Alternativo HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/11619
+#EXTINF:-1 group-title="Esportes PPV" tvg-logo="http://printv.esy.es/server/DAZN.png",DAZN 5 HD
+http://dns.clientetv.xyz:8080/Andreia/Andreia123/20619
+#EXTINF:-1 tvg-id="Bandsports1.hdbr" tvg-name="BAND SPORTS HD" tvg-logo="https://i.imgur.com/jflD8C6.png" group-title="CANAIS - ESPORTES",BAND SPORTS HD
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/40800
+#EXTINF:-1 tvg-id="Bandsports.hdbr" tvg-name="BAND SPORTS" tvg-logo="https://i.imgur.com/jflD8C6.png" group-title="CANAIS - ESPORTES",BAND SPORTS
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/40671
+#EXTINF:-1 tvg-id="Bandsports.hdbr" tvg-name="BAND SPORTS ALTERNATIVO" tvg-logo="https://i.imgur.com/jflD8C6.png" group-title="CANAIS - ESPORTES",BAND SPORTS ALTERNATIVO
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/13537
+#EXTINF:-1 tvg-id="Espn.hdbr" tvg-name="ESPN HD" tvg-logo="https://i.imgur.com/Dqv4yky.png" group-title="CANAIS - ESPORTES",ESPN HD
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/40777
+#EXTINF:-1 tvg-id="Espn.hdbr" tvg-name="ESPN HD" tvg-logo="https://i.imgur.com/Dqv4yky.png" group-title="CANAIS - ESPORTES",ESPN HD
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/40775
+#EXTINF:-1 tvg-id="Espn.hdbr" tvg-name="ESPN ALTERNATIVO" tvg-logo="https://i.imgur.com/Dqv4yky.png" group-title="CANAIS - ESPORTES",ESPN ALTERNATIVO
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/13520
+#EXTINF:-1 tvg-id="Espn.hdbr" tvg-name="ESPN" tvg-logo="https://i.imgur.com/Dqv4yky.png" group-title="CANAIS - ESPORTES",ESPN
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/40647
+#EXTINF:-1 tvg-id="ESPN+.hdbr" tvg-name="ESPN 2 HD" tvg-logo="https://i.imgur.com/Dqv4yky.png" group-title="CANAIS - ESPORTES",ESPN 2 HD
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/32008
+#EXTINF:-1 tvg-id="Espnbrasil.hdbr" tvg-name="ESPN BRASIL HD" tvg-logo="https://i.imgur.com/Dqv4yky.png" group-title="CANAIS - ESPORTES",ESPN BRASIL HD
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/40776
+#EXTINF:-1 tvg-id="Espnbrasil.hdbr" tvg-name="ESPN BRASIL" tvg-logo="https://i.imgur.com/Dqv4yky.png" group-title="CANAIS - ESPORTES",ESPN BRASIL
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/40646
+#EXTINF:-1 tvg-id="Espn.hdbr" tvg-name="ESPN BRASIL ALTERNATIVO" tvg-logo="https://i.imgur.com/Dqv4yky.png" group-title="CANAIS - ESPORTES",ESPN BRASIL ALTERNATIVO
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/13519
+#EXTINF:-1 tvg-id="AmazonSat.hdbr" tvg-name="ESPN EXTRA HD" tvg-logo="https://i.imgur.com/Dqv4yky.png" group-title="CANAIS - ESPORTES",ESPN EXTRA HD
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/40820
+#EXTINF:-1 tvg-id="AmazonSat.hdbr" tvg-name="ESPN EXTRA HD" tvg-logo="https://i.imgur.com/Dqv4yky.png" group-title="CANAIS - ESPORTES",ESPN EXTRA HD
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/32006
+#EXTINF:-1 tvg-id="Foxsportshd.hdbr" tvg-name="FOX SPORTS HD" tvg-logo="https://i.imgur.com/Hcvpbdz.png" group-title="CANAIS - ESPORTES",FOX SPORTS HD
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/40769
+#EXTINF:-1 tvg-id="Foxsportshd.hdbr" tvg-name="FOX SPORTS" tvg-logo="https://i.imgur.com/Hcvpbdz.png" group-title="CANAIS - ESPORTES",FOX SPORTS
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/40641
+#EXTINF:-1 tvg-id="Foxsportshd.hdbr" tvg-name="FOX SPORTS ALTERNATIVO" tvg-logo="https://i.imgur.com/Hcvpbdz.png" group-title="CANAIS - ESPORTES",FOX SPORTS ALTERNATIVO
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/13512
+#EXTINF:-1 tvg-id="AmazonSat.hdbr" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://i.imgur.com/Hcvpbdz.png" group-title="CANAIS - ESPORTES",FOX SPORTS 2 HD
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/40770
+#EXTINF:-1 tvg-id="Foxsports2hd.hdbr" tvg-name="FOX SPORTS 2" tvg-logo="https://i.imgur.com/Hcvpbdz.png" group-title="CANAIS - ESPORTES",FOX SPORTS 2
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/40642
+#EXTINF:-1 tvg-id="Foxsports2hd.hdbr" tvg-name="FOX SPORTS 2 ALTERNATIVO" tvg-logo="https://i.imgur.com/Hcvpbdz.png" group-title="CANAIS - ESPORTES",FOX SPORTS 2 ALTERNATIVO
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/13511
+#EXTINF:-1 tvg-id="Sportvhd101.hdbr" tvg-name="SPORTV HD" tvg-logo="https://i.imgur.com/GG0l8g0.png" group-title="CANAIS - ESPORTES",SPORTV HD
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/40726
+#EXTINF:-1 tvg-id="Sportv103.hdbr" tvg-name="SPORTV" tvg-logo="https://i.imgur.com/GG0l8g0.png" group-title="CANAIS - ESPORTES",SPORTV
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/40598
+#EXTINF:-1 tvg-id="Sportvsd102.hdbr" tvg-name="SPORTV ALTERNATIVO" tvg-logo="https://i.imgur.com/GG0l8g0.png" group-title="CANAIS - ESPORTES",SPORTV ALTERNATIVO
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/32160
+#EXTINF:-1 tvg-id="Sportv2100.hdbr" tvg-name="SPORTV 2 HD" tvg-logo="https://i.imgur.com/GG0l8g0.png" group-title="CANAIS - ESPORTES",SPORTV 2 HD
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/40725
+#EXTINF:-1 tvg-id="AmazonSat.hdbr" tvg-name="SPORTV 2 HD ALTERNATIVO" tvg-logo="https://i.imgur.com/GG0l8g0.png" group-title="CANAIS - ESPORTES",SPORTV 2 HD ALTERNATIVO
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/13458
+#EXTINF:-1 tvg-id="Sportv2103.hdbr" tvg-name="SPORTV 2" tvg-logo="https://i.imgur.com/GG0l8g0.png" group-title="CANAIS - ESPORTES",SPORTV 2
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/40597
+#EXTINF:-1 tvg-id="AmazonSat.hdbr" tvg-name="SPORTV 2 ALTERNATIVO" tvg-logo="https://i.imgur.com/GG0l8g0.png" group-title="CANAIS - ESPORTES",SPORTV 2 ALTERNATIVO
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/13459
+#EXTINF:-1 tvg-id="Sportv3hd101.hdbr" tvg-name="SPORTV 3 HD" tvg-logo="https://i.imgur.com/GG0l8g0.png" group-title="CANAIS - ESPORTES",SPORTV 3 HD
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/40724
+#EXTINF:-1 tvg-id="Sportv3103.hdbr" tvg-name="SPORTV 3" tvg-logo="https://i.imgur.com/GG0l8g0.png" group-title="CANAIS - ESPORTES",SPORTV 3
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/40596
+#EXTINF:-1 tvg-id="Sportv3fullhd.hdbr" tvg-name="SPORTV 3 ALTERNATIVO" tvg-logo="https://i.imgur.com/GG0l8g0.png" group-title="CANAIS - ESPORTES",SPORTV 3 ALTERNATIVO
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/13457
+#EXTINF:-1 tvg-id="Premiereclubeshd100.hdbr" tvg-name="PREMIERE CLUBES HD" tvg-logo="https://i.imgur.com/kBJth1V.png" group-title="CANAIS - PREMIERE",PREMIERE CLUBES HD
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/40741
+#EXTINF:-1 tvg-id="Premiereclubeshd100.hdbr" tvg-name="PREMIERE CLUBES HD ALTERNATIVO" tvg-logo="https://i.imgur.com/kBJth1V.png" group-title="CANAIS - PREMIERE",PREMIERE CLUBES HD ALTERNATIVO
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/32159
+#EXTINF:-1 tvg-id="Premiereclubeshd100.hdbr" tvg-name="PREMIERE CLUBES" tvg-logo="https://i.imgur.com/kBJth1V.png" group-title="CANAIS - PREMIERE",PREMIERE CLUBES
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/40613
+#EXTINF:-1 tvg-id="Premiereclubeshd100.hdbr" tvg-name="PREMIERE CLUBES ALTERNATIVO" tvg-logo="https://i.imgur.com/kBJth1V.png" group-title="CANAIS - PREMIERE",PREMIERE CLUBES ALTERNATIVO
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/32158
+#EXTINF:-1 tvg-id="Premiere2hd100.hdbr" tvg-name="PREMIERE 2 HD" tvg-logo="https://i.imgur.com/kBJth1V.png" group-title="CANAIS - PREMIERE",PREMIERE 2 HD
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/40740
+#EXTINF:-1 tvg-id="Premiere2101.hdbr" tvg-name="PREMIERE 2" tvg-logo="https://i.imgur.com/kBJth1V.png" group-title="CANAIS - PREMIERE",PREMIERE 2
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/40612
+#EXTINF:-1 tvg-id="Premiere2101.hdbr" tvg-name="PREMIERE 2 ALTERNATIVO" tvg-logo="https://i.imgur.com/kBJth1V.png" group-title="CANAIS - PREMIERE",PREMIERE 2 ALTERNATIVO
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/13473
+#EXTINF:-1 tvg-id="Premiere3hd100.hdbr" tvg-name="PREMIERE 3 HD" tvg-logo="https://i.imgur.com/kBJth1V.png" group-title="CANAIS - PREMIERE",PREMIERE 3 HD
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/40739
+#EXTINF:-1 tvg-id="Premiere3101.hdbr" tvg-name="PREMIERE 3" tvg-logo="https://i.imgur.com/kBJth1V.png" group-title="CANAIS - PREMIERE",PREMIERE 3
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/40611
+#EXTINF:-1 tvg-id="Premiere3101.hdbr" tvg-name="PREMIERE 3 ALTERNATIVO" tvg-logo="https://i.imgur.com/kBJth1V.png" group-title="CANAIS - PREMIERE",PREMIERE 3 ALTERNATIVO
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/13472
+#EXTINF:-1 tvg-id="Premiere4hd100.hdbr" tvg-name="PREMIERE 4 HD" tvg-logo="https://i.imgur.com/kBJth1V.png" group-title="CANAIS - PREMIERE",PREMIERE 4 HD
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/40738
+#EXTINF:-1 tvg-id="Premiere4101.hdbr" tvg-name="PREMIERE 4" tvg-logo="https://i.imgur.com/kBJth1V.png" group-title="CANAIS - PREMIERE",PREMIERE 4
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/40610
+#EXTINF:-1 tvg-id="Premiere4101.hdbr" tvg-name="PREMIERE 4 ALTERNATIVO" tvg-logo="https://i.imgur.com/kBJth1V.png" group-title="CANAIS - PREMIERE",PREMIERE 4 ALTERNATIVO
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/13471
+#EXTINF:-1 tvg-id="Premiere5hd100.hdbr" tvg-name="PREMIERE 5 HD" tvg-logo="https://i.imgur.com/kBJth1V.png" group-title="CANAIS - PREMIERE",PREMIERE 5 HD
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/40737
+#EXTINF:-1 tvg-id="Premiere5101.hdbr" tvg-name="PREMIERE 5" tvg-logo="https://i.imgur.com/kBJth1V.png" group-title="CANAIS - PREMIERE",PREMIERE 5
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/40609
+#EXTINF:-1 tvg-id="Premiere5101.hdbr" tvg-name="PREMIERE 5 ALTERNATIVO" tvg-logo="https://i.imgur.com/kBJth1V.png" group-title="CANAIS - PREMIERE",PREMIERE 5 ALTERNATIVO
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/13470
+#EXTINF:-1 tvg-id="Premiere6hd100.hdbr" tvg-name="PREMIERE 6 HD" tvg-logo="https://i.imgur.com/kBJth1V.png" group-title="CANAIS - PREMIERE",PREMIERE 6 HD
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/40736
+#EXTINF:-1 tvg-id="Premiere6101.hdbr" tvg-name="PREMIERE 6" tvg-logo="https://i.imgur.com/kBJth1V.png" group-title="CANAIS - PREMIERE",PREMIERE 6
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/40608
+#EXTINF:-1 tvg-id="Premiere6101.hdbr" tvg-name="PREMIERE 6 ALTERNATIVO" tvg-logo="https://i.imgur.com/kBJth1V.png" group-title="CANAIS - PREMIERE",PREMIERE 6 ALTERNATIVO
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/13469
+#EXTINF:-1 tvg-id="Premiere7hd100.hdbr" tvg-name="PREMIERE 7 HD" tvg-logo="https://i.imgur.com/kBJth1V.png" group-title="CANAIS - PREMIERE",PREMIERE 7 HD
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/40735
+#EXTINF:-1 tvg-id="Premiere7101.hdbr" tvg-name="PREMIERE 7" tvg-logo="https://i.imgur.com/kBJth1V.png" group-title="CANAIS - PREMIERE",PREMIERE 7
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/40607
+#EXTINF:-1 tvg-id="Premiere7101.hdbr" tvg-name="PREMIERE 7 ALTERNATIVO" tvg-logo="https://i.imgur.com/kBJth1V.png" group-title="CANAIS - PREMIERE",PREMIERE 7 ALTERNATIVO
+http://cdn.ontvhdbr.co:80/carlos11/carlos11/13468
